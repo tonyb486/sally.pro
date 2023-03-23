@@ -29,12 +29,12 @@ div.box {
 
     font-weight: bold;
 
-    font-size: 3em;
+    font-size: 24px;
 
     line-height: 150%;
     color: #9F0B10;
 
-    width: 7em;
+    width: 300px;
     padding: .5em;
 
     border-radius: 1em;
@@ -44,7 +44,7 @@ div.box {
 }
 
 img.icon {
-    width: 7em;
+    width: 100%;
     padding: 0;
     margin: 0;
     display: block;
