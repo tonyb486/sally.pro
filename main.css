@@ -42,3 +42,10 @@ div.box {
     font-family: 'Alkatra', cursive;
 
 }
+
+img.icon {
+    width: 7em;
+    padding: 0;
+    margin: 0;
+    display: block;
+}
